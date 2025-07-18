@@ -17,6 +17,7 @@ This project is an AI-powered interior design tool that allows users to upload a
 <img width="1915" height="956" alt="Image" src="https://github.com/user-attachments/assets/53b3589d-3e8a-4dd5-8ec1-b0bdbac26255" />
 <img width="1911" height="962" alt="Image" src="https://github.com/user-attachments/assets/4edaa86c-b7be-4e0e-8e42-bc174868963d" />
 
+## Cost Estimation
 <img width="1913" height="966" alt="Image" src="https://github.com/user-attachments/assets/ca722403-dd13-4063-a837-294fd6c63413" />
 <img width="1919" height="957" alt="Image" src="https://github.com/user-attachments/assets/7e022684-0a90-4b2b-b833-8955ea5dfa8b" />
 <img width="1917" height="961" alt="Image" src="https://github.com/user-attachments/assets/17399944-b9d8-4fea-b922-315df070d9dc" />
